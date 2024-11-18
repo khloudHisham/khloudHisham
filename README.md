@@ -43,9 +43,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhloudHiham&show_icons=true&locale=en&layout=compact" alt="KhloudHiham" /></p>
+##### My Problem Solving Skills:
+<a href="https://codeforces.com/profile/maryamelfishaw7">
+  <img src="https://img.shields.io/badge/codeforces-%232f2f2f?style=flat&logo=codeforces&logoColor=white"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhloudHiham&show_icons=true&locale=en" alt="KhloudHisham" /></p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariemSaid23&show_icons=true&locale=en&layout=compact" alt="MariemSaid23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MariemSaid23&show_icons=true&locale=en" alt="khloudHisham" /></p>
+
+<!--
 
 <!--
 
