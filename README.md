@@ -42,14 +42,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--END_SECTION:waka-->
 
 
-<br/>
-##### My Problem Solving Skills:
-
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariemSaid23&show_icons=true&locale=en&layout=compact" alt="KhloudHisham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MariemSaid23&show_icons=true&locale=en" alt="khloudHisham" /></p>
 
 <!--
 
