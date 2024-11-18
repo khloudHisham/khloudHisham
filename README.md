@@ -51,9 +51,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khloudHisham&show_icons=true&locale=en" alt="khloudHisham" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khloudHisham&" alt="khloudHisham" />
-</p>
+
 
 
 
